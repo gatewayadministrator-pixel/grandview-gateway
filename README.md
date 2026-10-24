@@ -1,4 +1,5 @@
 https://cdn.jsdelivr.net/gh/gatewayadministrator-pixel/grandview-gateway@v1.0/gateway.css
+
 PART A — The complete code block
 Paste this once per site into a single Embed. It contains buttons, badge pills, tint cards, section headers, responsive rules, dark mode, reduced motion, and print.
 html      <REMOVED THIS LINE-RWH>  
